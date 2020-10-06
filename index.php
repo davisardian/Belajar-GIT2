@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Hello World</h1>
-    <p>Lorent</p>
+    <p>Django</p>
     <ul>
         <li>bro</li>    
     </ul>
